@@ -1,0 +1,9 @@
+{
+	"name": "vinay-adf071-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "851720bf-e0c2-4ec8-8044-68b9a04df2ef",
+		"tenantId": "174941da-b4f2-4bf8-ad4a-1c3f548e1416"
+	}
+}
